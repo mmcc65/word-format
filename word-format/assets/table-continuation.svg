@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="690" viewBox="0 0 800 690">
+<rect width="100%" height="100%" fill="white"/>
+<text x="400" y="54" text-anchor="middle" font-family="SimSun,serif" font-size="20">表1-1 示例数据</text>
+<line x1="90" y1="78" x2="710" y2="78" stroke="black" stroke-width="2"/>
+<line x1="90" y1="128" x2="710" y2="128" stroke="black" stroke-width="1"/>
+<line x1="90" y1="183" x2="710" y2="183" stroke="black" stroke-width="2"/>
+<text x="240" y="111" text-anchor="middle" font-family="SimSun,serif" font-size="19">项目</text>
+<text x="560" y="111" text-anchor="middle" font-family="SimSun,serif" font-size="19">数值</text>
+<text x="240" y="163" text-anchor="middle" font-family="SimSun,serif" font-size="18">项目一</text>
+<text x="560" y="163" text-anchor="middle" font-family="SimSun,serif" font-size="18">数值一</text>
+<text x="400" y="374" text-anchor="middle" font-family="SimSun,serif" font-size="20">（续）表1-1 示例数据</text>
+<line x1="90" y1="398" x2="710" y2="398" stroke="black" stroke-width="2"/>
+<line x1="90" y1="448" x2="710" y2="448" stroke="black" stroke-width="1"/>
+<line x1="90" y1="558" x2="710" y2="558" stroke="black" stroke-width="2"/>
+<text x="240" y="431" text-anchor="middle" font-family="SimSun,serif" font-size="19">项目</text>
+<text x="560" y="431" text-anchor="middle" font-family="SimSun,serif" font-size="19">数值</text>
+<text x="240" y="483" text-anchor="middle" font-family="SimSun,serif" font-size="18">项目二</text>
+<text x="560" y="483" text-anchor="middle" font-family="SimSun,serif" font-size="18">数值二</text>
+<text x="240" y="538" text-anchor="middle" font-family="SimSun,serif" font-size="18">项目三</text>
+<text x="560" y="538" text-anchor="middle" font-family="SimSun,serif" font-size="18">数值三</text>
+<line x1="55" y1="300" x2="745" y2="300" stroke="#aaa" stroke-dasharray="8 6"/>
+<text x="400" y="290" text-anchor="middle" font-family="Microsoft YaHei,SimSun,sans-serif" font-size="15">分页</text>
+</svg>
